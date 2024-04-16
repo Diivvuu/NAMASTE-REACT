@@ -1,0 +1,29 @@
+{
+  "name": "1-inception",
+  "version": "1.0.0",
+  "description": "this is namaste react practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diivvuu/NAMASTE-REACT.git"
+  },
+  "keywords": [
+    "Divu",
+    "react",
+    "namaste",
+    "react",
+    "practice"
+  ],
+  "author": "Divu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diivvuu/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/Diivvuu/NAMASTE-REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
