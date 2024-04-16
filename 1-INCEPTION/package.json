@@ -2,7 +2,6 @@
   "name": "1-inception",
   "version": "1.0.0",
   "description": "this is namaste react practice",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -30,5 +29,9 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist": [
+    "last 5 Chrome versions",
+    "last 5 Firefox versions"
+  ]
 }
